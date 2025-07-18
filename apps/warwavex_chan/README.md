@@ -1,3 +1,0 @@
-# WarwavexChan
-
-**TODO: Add description**
